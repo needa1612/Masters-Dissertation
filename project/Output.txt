@@ -1,0 +1,71 @@
+
+ --------------------Preferences-------------------- 
+     Men preferences
+     3 : [  C  A  B  D ]
+     2 : [  B  D ]
+     1 : [  B  A ]
+
+
+     Women preferences
+     A : [  1  3 ]
+     B : [  2  3  1 ]
+     C : [  3 ]
+     D : [  2  3 ]
+
+
+ --------------------Matchings-------------------- 
+     Men  Women
+      A    1
+      B    2
+      C    3
+
+
+ --------------------Execution trace-------------------- 
+
+      
+      
+ MAN : 3
+
+       C is the first undeleted woman on 3's list
+
+       3 proposes C
+
+       3 gets matched to C
+
+      
+ MAN : 2
+
+       B is the first undeleted woman on 2's list
+
+       2 proposes B
+
+       2 gets matched to B
+
+       Deleting all men after 2 in B's list
+
+       3 deleted from B's preference list 
+
+       B deleted from 3's preference list 
+
+       1 deleted from B's preference list 
+
+       B deleted from 1's preference list 
+
+      
+ MAN : 1
+
+       A is the first undeleted woman on 1's list
+
+       1 proposes A
+
+       1 gets matched to A
+
+       Deleting all men after 1 in A's list
+
+       3 deleted from A's preference list 
+
+       A deleted from 3's preference list 
+
+       Stable matchings generated
+
+

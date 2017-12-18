@@ -1,0 +1,21 @@
+1 A B D C
+2 C A G B F J D
+3 B E J G I H
+4 A B C
+5 B E D C A
+6 J F G A C D B I E H
+7 H J G B E C
+8 F E A D I
+9 B
+10 J I H G F E D C B A
+
+A 5 6 10 2 1 4 8
+B 3 9 4 7 5 6 10 1 2
+C 5 2 7 1 10 4 6
+D 6 10 1 2 8 5
+E 3 7 10 5 8 6
+F 8 6 2 10
+G 10 6 7 2 3
+H 6 3 7 10
+I 10 8 3 6
+J 2 6 10 7 3
