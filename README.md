@@ -33,9 +33,9 @@ The second approach was follwed because of its advantages.
 2.	Stepwise -  buttons to move ahead and back one step at a time .
 
 Use of MVC architecture:                                                 
-Model: Main algorithm logic (GSAlgo.java)
-View: User interface (GUI.java)
-Controller: ActionListeners (actionPerformed() in GUI.java)
+- Model: Main algorithm logic (GSAlgo.java)
+- View: User interface (GUI.java)
+- Controller: ActionListeners (actionPerformed() in GUI.java)
 
 Object Oriented programming:
 Inheritance implemented with person.java as base class and acceptor.java and proposer.java as derived classes.
