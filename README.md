@@ -34,7 +34,9 @@ The second approach was follwed because of its advantages.
 
 Use of MVC architecture:                                                 
 Model: main algorithm logic (GSAlgo.java)
+
 View: User interface (GUI.java)
+
 Controller: ActionListeners (actionPerformed() in GUI.java)
 
 Object Oriented programming:
